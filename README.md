@@ -1,13 +1,13 @@
-# 🌐 IP Address Tracker with Map
+🌐 IP Address Tracker with Map
 
 This is a simple web application that tracks and displays the geographical location of any IP address. It also visualizes the location on an interactive map using Leaflet and OpenStreetMap.
 
-## 🚀 Features
+🚀 Features
 
 - Search for any IP address or domain
 - Get detailed info:
   - IP Address
-  - Country, Region, City
+  - Country, Region, City 
   - ISP (Internet Service Provider)
   - Timezone
 - Interactive map with a marker pointing to the location
